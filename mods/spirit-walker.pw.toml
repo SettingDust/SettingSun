@@ -1,0 +1,13 @@
+name = "Spirit Walker"
+filename = "spirit-walker-0.1.4+1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zbX4s3vj/versions/Ftuffblr/spirit-walker-0.1.4%2B1.20.jar"
+hash-format = "sha1"
+hash = "a4c92c9c1ecc18dcc2a10399bf41bcf938cf2020"
+
+[update]
+[update.modrinth]
+mod-id = "zbX4s3vj"
+version = "Ftuffblr"

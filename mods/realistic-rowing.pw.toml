@@ -1,0 +1,13 @@
+name = "Realistic Rowing"
+filename = "realistic-rowing-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/afWvXmW4/versions/galT4gMl/realistic-rowing-1.0.0.jar"
+hash-format = "sha1"
+hash = "5354218dd09bdcb055f867257e9abd49d4a725ba"
+
+[update]
+[update.modrinth]
+mod-id = "afWvXmW4"
+version = "galT4gMl"

@@ -1,0 +1,13 @@
+name = "Carbon"
+filename = "carbonchat-fabric-2.1.0-beta.22.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/QzooIsZI/versions/Af90lL43/carbonchat-fabric-2.1.0-beta.22.jar"
+hash-format = "sha1"
+hash = "8f6fc440a285b26589fd90d4ab4a25f225c517fc"
+
+[update]
+[update.modrinth]
+mod-id = "QzooIsZI"
+version = "Af90lL43"

@@ -1,0 +1,13 @@
+name = "Text Animator"
+filename = "TextAnimator-1.20.1-fabric-2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HBIG5nRf/versions/N5Qpu0lH/TextAnimator-1.20.1-fabric-2.0.1.jar"
+hash-format = "sha1"
+hash = "71abaee44b0019973efe7e35ad05ea21adf39a19"
+
+[update]
+[update.modrinth]
+mod-id = "HBIG5nRf"
+version = "N5Qpu0lH"

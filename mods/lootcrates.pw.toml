@@ -1,0 +1,13 @@
+name = "Modular Loot Crates and Bundles"
+filename = "ModularLootCrates-3.4.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1fLfbOcu/versions/CAMquO7a/ModularLootCrates-3.4.2.jar"
+hash-format = "sha1"
+hash = "c07a0166726599da5a65a0373ffd8e70845428ae"
+
+[update]
+[update.modrinth]
+mod-id = "1fLfbOcu"
+version = "CAMquO7a"

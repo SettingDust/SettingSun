@@ -1,0 +1,13 @@
+name = "Vindsvept Music Pack"
+filename = "Vindsvept1_16_5.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c08e0a29b3ef1c0ef813703e65ee32701986124c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3232139
+project-id = 440668

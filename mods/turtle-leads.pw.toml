@@ -1,0 +1,13 @@
+name = "Turtle Leads"
+filename = "turtlefollows-fabric-1.20.1-v1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7eNQiosN/versions/OOPskOkf/turtlefollows-fabric-1.20.1-v1.0.4.jar"
+hash-format = "sha1"
+hash = "4f60d71672cc5f7f9ecc33e4364ea2d5a2767414"
+
+[update]
+[update.modrinth]
+mod-id = "7eNQiosN"
+version = "OOPskOkf"

@@ -1,0 +1,13 @@
+name = "Block Gradients"
+filename = "blockgradients-1.20-1.0.3-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fcc01b8903f7c277be225a9d8ba1dc5a7297395e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4827933
+project-id = 929841

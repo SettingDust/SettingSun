@@ -1,0 +1,13 @@
+name = "Better Days"
+filename = "betterdays-1.20.1-3.1.0.2-FABRIC.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tPLE214j/versions/McOXQE2j/betterdays-1.20.1-3.1.0.2-FABRIC.jar"
+hash-format = "sha1"
+hash = "a62830ade6231e2fb85556b2ac8ce26a14244a73"
+
+[update]
+[update.modrinth]
+mod-id = "tPLE214j"
+version = "McOXQE2j"

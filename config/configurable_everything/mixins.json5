@@ -1,0 +1,19 @@
+{
+	/* 
+	   Enables or disables the mod's mixins.
+	   Warning: Functionality will be lost if these are disabled.
+	*/
+	"biome_placement": true,
+	"datafixer": true,
+	"datapack": true,
+	"entity": true,
+	"entity_zombie": true,
+	"fluid": true,
+	"game": true,
+	"game_client": true,
+	"screenshake": true,
+	"screenshake_client": true,
+	"splash_text": true,
+	"world": true,
+	"world_client": false,
+}

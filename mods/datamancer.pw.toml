@@ -1,0 +1,13 @@
+name = "Datamancer"
+filename = "datamancer-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/maQE7or0/versions/7fhzk4G5/datamancer-1.0.1.jar"
+hash-format = "sha1"
+hash = "e6a2abd32608950e1127c9194a87f771a3d312fb"
+
+[update]
+[update.modrinth]
+mod-id = "maQE7or0"
+version = "7fhzk4G5"

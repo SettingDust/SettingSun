@@ -1,0 +1,13 @@
+name = "Enhanced Book Writing"
+filename = "EnhancedBookWriting-1.0.0+mc1.19.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/6XFa5bbd/versions/Y1XlbleJ/EnhancedBookWriting-1.0.0%2Bmc1.19.4.jar"
+hash-format = "sha1"
+hash = "77d2ab7f30ac152ee2e1fc6d3702cd77cc1e2a78"
+
+[update]
+[update.modrinth]
+mod-id = "6XFa5bbd"
+version = "Y1XlbleJ"

@@ -1,0 +1,13 @@
+name = "Switcher"
+filename = "switcher-1.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/9qFqyStE/versions/vKzeUPNT/switcher-1.1.0.jar"
+hash-format = "sha1"
+hash = "9bb17fdcdc4d4ebd0c235740099f9cff6c2f9758"
+
+[update]
+[update.modrinth]
+mod-id = "9qFqyStE"
+version = "vKzeUPNT"

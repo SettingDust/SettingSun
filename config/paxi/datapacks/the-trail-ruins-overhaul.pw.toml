@@ -1,0 +1,13 @@
+name = "The Trail Ruins Overhaul"
+filename = "trailruins-overhaul-v1-0-1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1a4tZTEG/versions/GSvqWuRG/trailruins-overhaul-v1-0-1.zip"
+hash-format = "sha1"
+hash = "4cf24f8fd57dd5f309101f279dfdcf57ff3584c2"
+
+[update]
+[update.modrinth]
+mod-id = "1a4tZTEG"
+version = "GSvqWuRG"

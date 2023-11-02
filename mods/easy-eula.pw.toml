@@ -1,0 +1,13 @@
+name = "Easy Eula"
+filename = "EasyEula-1.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/CvQCitpB/versions/9W4F3syE/EasyEula-1.0.jar"
+hash-format = "sha1"
+hash = "2eaa2f8c9fb55297bb0fd05bfa52c9d5f944384e"
+
+[update]
+[update.modrinth]
+mod-id = "CvQCitpB"
+version = "9W4F3syE"

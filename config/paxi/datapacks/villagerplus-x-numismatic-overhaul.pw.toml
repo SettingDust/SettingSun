@@ -1,0 +1,13 @@
+name = "VillagerPlus x Numismatic Overhaul"
+filename = "VillagerPlus_Numismatic_Supplementaries.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1nZDM5kF/versions/pTmp9Czc/VillagerPlus_Numismatic_Supplementaries.zip"
+hash-format = "sha1"
+hash = "55d0800a9ca6e53fd909f6c0a40505eb5c5a7216"
+
+[update]
+[update.modrinth]
+mod-id = "1nZDM5kF"
+version = "pTmp9Czc"

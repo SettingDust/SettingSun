@@ -1,0 +1,17 @@
+name = "Setting Sun"
+author = "SettingDust"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f7e9569b2f7f3d6a7ccce5de09846e25b7db6f38788ce03b4de06db2d37a8999"
+
+[versions]
+fabric = "0.14.24"
+minecraft = "1.20.1"
+
+[options]
+acceptable-game-versions = ["1.20", "1.20.1"]
+datapack-folder = "config/paxi/datapacks"

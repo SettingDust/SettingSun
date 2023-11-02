@@ -1,0 +1,13 @@
+name = "The Ancient City Overhaul"
+filename = "TheAncientCityOverhaul_v1_6.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KRjFqAvV/versions/shO6Q811/TheAncientCityOverhaul_v1_6.zip"
+hash-format = "sha1"
+hash = "a2ca6e6af1d855dd07a894b5533f4a6441e8ae70"
+
+[update]
+[update.modrinth]
+mod-id = "KRjFqAvV"
+version = "shO6Q811"

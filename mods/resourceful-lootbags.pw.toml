@@ -1,0 +1,13 @@
+name = "Resourceful Lootbags"
+filename = "lootbags-2.0.0-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eE4G2ag6/versions/sv30l53e/lootbags-2.0.0-fabric.jar"
+hash-format = "sha1"
+hash = "975ef834fa6d35b348184345a25e8f899763f312"
+
+[update]
+[update.modrinth]
+mod-id = "eE4G2ag6"
+version = "sv30l53e"

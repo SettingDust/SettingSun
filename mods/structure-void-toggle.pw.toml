@@ -1,0 +1,13 @@
+name = "Structure Void Toggle"
+filename = "structure_void_toggle-4.2.7+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/S1tbzJ6Y/versions/te56DL5J/structure_void_toggle-4.2.7%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "712da3a143883c2136e0ebe67fdfdd57b2884171"
+
+[update]
+[update.modrinth]
+mod-id = "S1tbzJ6Y"
+version = "te56DL5J"

@@ -1,0 +1,13 @@
+name = "Better Armor Trims"
+filename = "Better Armor Trims.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/mYKb1ler/versions/2K5oL3Nk/Better%20Armor%20Trims.zip"
+hash-format = "sha1"
+hash = "7c400a18418721f2967785de8336aa720c0cb439"
+
+[update]
+[update.modrinth]
+mod-id = "mYKb1ler"
+version = "2K5oL3Nk"

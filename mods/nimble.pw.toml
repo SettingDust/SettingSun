@@ -1,0 +1,13 @@
+name = "Nimble"
+filename = "Nimble-1.20.1-fabric-5.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Q5UvqqQd/versions/48U7dRu3/Nimble-1.20.1-fabric-5.0.0.jar"
+hash-format = "sha1"
+hash = "712e65fefc0651ad6d89d5d38b673b5b6c982784"
+
+[update]
+[update.modrinth]
+mod-id = "Q5UvqqQd"
+version = "48U7dRu3"

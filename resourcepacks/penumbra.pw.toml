@@ -1,0 +1,13 @@
+name = "Penumbra"
+filename = "Penumbra [1.2].zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/z3PckmqA/versions/iH1iwU2q/Penumbra%20%5B1.2%5D.zip"
+hash-format = "sha1"
+hash = "8314f3b04f5c9b95db3445308d4f018c483a8c01"
+
+[update]
+[update.modrinth]
+mod-id = "z3PckmqA"
+version = "iH1iwU2q"

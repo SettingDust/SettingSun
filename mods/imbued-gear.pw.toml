@@ -1,0 +1,13 @@
+name = "Imbued Gear"
+filename = "imbued_gear-0.3.0+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UfJHrpa9/versions/Dd8XhsEd/imbued_gear-0.3.0%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "8cbfe3841bc1689f5316f6c35ae74d47cd8c4ee3"
+
+[update]
+[update.modrinth]
+mod-id = "UfJHrpa9"
+version = "Dd8XhsEd"

@@ -1,0 +1,13 @@
+name = "Saplanting"
+filename = "saplanting-fabric-1.20.2-1.2.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Vo4uFiz0/versions/UrjEhD8m/saplanting-fabric-1.20.2-1.2.5.jar"
+hash-format = "sha1"
+hash = "82c8270f4ee55864db75eaaa46404c90a9804b0a"
+
+[update]
+[update.modrinth]
+mod-id = "Vo4uFiz0"
+version = "UrjEhD8m"
