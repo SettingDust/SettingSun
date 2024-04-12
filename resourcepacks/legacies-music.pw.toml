@@ -1,0 +1,13 @@
+name = "Legacies Music"
+filename = "legacies-music-1.20-v1.3.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/dAU9uKaA/versions/otN8o2K1/legacies-music-1.20-v1.3.1.zip"
+hash-format = "sha1"
+hash = "915ddb49c95cd7a0d1ef473434a3b9e8711ce861"
+
+[update]
+[update.modrinth]
+mod-id = "dAU9uKaA"
+version = "otN8o2K1"

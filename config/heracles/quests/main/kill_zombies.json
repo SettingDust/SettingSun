@@ -1,0 +1,66 @@
+{
+  "dependencies": [
+    "talk_to_villager"
+  ],
+  "tasks": {
+    "talk_to_villagers": {
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      },
+      "dialogue": "settingsun:talk_to_villager",
+      "need_action": true,
+      "title": "",
+      "type": "heracles-for-blabber:chat"
+    },
+    "kill_zombies": {
+      "entity": {
+        "type": "minecraft:zombie"
+      },
+      "amount": 6,
+      "type": "heracles:kill_entity"
+    }
+  },
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      ""
+    ],
+    "groups": {
+      "Main": {
+        "position": [
+          96,
+          0
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:wooden_sword",
+        "count": 1,
+        "nbt": {
+          "Damage": 0
+        }
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "quests.kill_zombies.title"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

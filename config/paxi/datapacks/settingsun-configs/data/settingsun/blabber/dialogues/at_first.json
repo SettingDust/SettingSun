@@ -1,0 +1,33 @@
+{
+  "$schema": "https://ladysnake.org/wiki/blabber/dialogue.schema.json",
+  "states": {
+    "start": {
+      "text": [
+        {
+          "translate": "dialogues.at_first.title",
+          "with": [
+            {
+              "keybind": "key.use"
+            }
+          ]
+        }
+      ],
+      "choices": [
+        {
+          "next": "end",
+          "text": {
+            "translate": "dialogues.at_first.choice_end"
+          }
+        }
+      ]
+    },
+    "end": {
+      "type": "end_dialogue"
+    }
+  },
+  "layout": {
+    "type": "blabber:classic"
+  },
+  "unskippable": true,
+  "start_at": "start"
+}

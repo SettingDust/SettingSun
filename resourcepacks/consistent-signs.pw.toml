@@ -1,0 +1,13 @@
+name = "Consistent Signs"
+filename = "Consistent_Signs_(1.20).zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/1vQNLCnI/versions/niJGxTL7/Consistent_Signs_%281.20%29.zip"
+hash-format = "sha1"
+hash = "ef4b326b1060f6b69a97f0cebc7ce1717e46ee76"
+
+[update]
+[update.modrinth]
+mod-id = "1vQNLCnI"
+version = "niJGxTL7"

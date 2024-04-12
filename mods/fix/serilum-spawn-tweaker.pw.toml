@@ -1,0 +1,13 @@
+name = "SerilumSpawnTweaker"
+filename = "SerilumSpawnTweaker-0.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LBXOATj3/versions/MTs7FrPb/SerilumSpawnTweaker-0.2.0.jar"
+hash-format = "sha1"
+hash = "2182703655af08d0f54ca6ada4b5cd162e25e30f"
+
+[update]
+[update.modrinth]
+mod-id = "LBXOATj3"
+version = "MTs7FrPb"

@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:pillager_outposts",
+    "ctov:pillager_outposts",
+    "mvs:small_pillager_tower",
+    "nova_structures:illager_camp",
+    "illagerinvasion:firecaller_hut",
+    "illagerinvasion:illager_fort",
+    "illagerinvasion:illusioner_tower",
+    "illagerinvasion:labyrinth",
+    "illagerinvasion:sorcerer_hut",
+    "towns_and_towers:towers"
+  ]
+}

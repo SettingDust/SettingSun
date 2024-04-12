@@ -1,0 +1,13 @@
+name = "Stellar Tweaks"
+filename = "Stellar Tweaks-2.5.2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/jjNmamYZ/versions/xrFWSMqW/Stellar%20Tweaks-2.5.2.zip"
+hash-format = "sha1"
+hash = "c045316e6991b8b1d304a75e5fdf0997b5235a70"
+
+[update]
+[update.modrinth]
+mod-id = "jjNmamYZ"
+version = "xrFWSMqW"

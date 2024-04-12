@@ -1,0 +1,21 @@
+{
+  "$schema": "https://github.com/SettingDust/ModSets/raw/main/rules.schema.json",
+  "text": {
+    "translate": "modsets.rules.misc"
+  },
+  "rules": [
+    {
+      "text": {
+        "translate": "modsets.rules.misc.debug"
+      },
+      "description": {
+        "translate": "modsets.rules.misc.debug"
+      },
+      "controller": {
+        "type": "mods_group",
+        "collapsed": false,
+        "mods": ["debug"]
+      }
+    }
+  ]
+}

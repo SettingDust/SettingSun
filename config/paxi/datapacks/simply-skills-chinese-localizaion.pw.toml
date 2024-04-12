@@ -1,0 +1,13 @@
+name = "Simply Skills Chinese Localizaion"
+filename = "Optional_Translation_Json.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/o3EtWA9u/versions/beWiz2r3/Optional_Translation_Json.zip"
+hash-format = "sha1"
+hash = "7166ba5788afef4ab39606ddc55474fc9a5692ec"
+
+[update]
+[update.modrinth]
+mod-id = "o3EtWA9u"
+version = "beWiz2r3"

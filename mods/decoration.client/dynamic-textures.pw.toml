@@ -1,0 +1,13 @@
+name = "Dynamic Textures"
+filename = "DynamicTextures-0.3.0+sha.4a78ef0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/VnWNJcsw/versions/gkYn0Cs6/DynamicTextures-0.3.0%2Bsha.4a78ef0.jar"
+hash-format = "sha1"
+hash = "d803f9308d3f88c16b6e05f4cf3dfec92218020b"
+
+[update]
+[update.modrinth]
+mod-id = "VnWNJcsw"
+version = "gkYn0Cs6"

@@ -1,0 +1,13 @@
+name = "Illegal Stack Fixer"
+filename = "illegal_stack_fixer-mc1.20.2-1.0.0-build.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1P8FCviI/versions/KzcF7Ekr/illegal_stack_fixer-mc1.20.2-1.0.0-build.7.jar"
+hash-format = "sha1"
+hash = "62f66112a52c1e6629c2158e8044f824334a892d"
+
+[update]
+[update.modrinth]
+mod-id = "1P8FCviI"
+version = "KzcF7Ekr"

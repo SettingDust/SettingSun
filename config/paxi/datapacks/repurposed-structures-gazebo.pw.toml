@@ -1,0 +1,13 @@
+name = "Repurposed Structures - Gazebo Compat Datapack"
+filename = "Repurposed_Structures-Gazebo_v2.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/H0lxoIBE/versions/Ui3kVOdx/Repurposed_Structures-Gazebo_v2.zip"
+hash-format = "sha1"
+hash = "81645df8fd47118fdcdb877468d80e72b9c914ef"
+
+[update]
+[update.modrinth]
+mod-id = "H0lxoIBE"
+version = "Ui3kVOdx"

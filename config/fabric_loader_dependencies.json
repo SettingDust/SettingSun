@@ -14,11 +14,22 @@
         "fabric-language-kotlin": "\u003e\u003d1.10.10+kotlin.1.9.10"
       }
     },
+    "debugify": {
+      "recommends": {}
+    },
     "alloy_forgery": {
       "recommends": {}
     },
     "scannable": {
       "recommends": {}
+    },
+    "morecullingextra": {
+      "recommends": {}
+    },
+    "simplyskills" : {
+      "-depends": {
+        "puffish_skills": "IGNORED"
+      }
     }
   }
 }

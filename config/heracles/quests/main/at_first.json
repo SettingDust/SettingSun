@@ -1,0 +1,58 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "village": {
+      "structures": "#minecraft:village",
+      "type": "heracles:structure"
+    }
+  },
+  "rewards": {
+    "village": {
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      },
+      "dialogue": "settingsun:at_first",
+      "type": "heracles-for-blabber:chat"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      ""
+    ],
+    "groups": {
+      "Main": {
+        "position": [
+          0,
+          0
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:grass_block",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "quests.at_first.title"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": true,
+    "individual_progress": true,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

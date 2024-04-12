@@ -1,0 +1,13 @@
+name = "Blue's Better Zombies"
+filename = "Blues_Better_Zombies_v0.08.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/tDBJQuOZ/versions/SVSplRJx/Blues_Better_Zombies_v0.08.zip"
+hash-format = "sha1"
+hash = "0c44e09b478b17890a2f3739262d79209fb8d6e1"
+
+[update]
+[update.modrinth]
+mod-id = "tDBJQuOZ"
+version = "SVSplRJx"

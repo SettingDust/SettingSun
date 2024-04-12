@@ -1,0 +1,13 @@
+name = "Effortless"
+filename = "effortless-1.20.1-2.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EF68hjiy/versions/wJlMY3JY/effortless-1.20.1-2.2.0.jar"
+hash-format = "sha1"
+hash = "85c6b423fe6dc5e6b46475a5222ad2cc97f1c172"
+
+[update]
+[update.modrinth]
+mod-id = "EF68hjiy"
+version = "wJlMY3JY"

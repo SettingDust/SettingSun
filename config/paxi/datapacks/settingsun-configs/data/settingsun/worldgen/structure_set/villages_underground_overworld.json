@@ -1,0 +1,22 @@
+{
+  "structures": [
+    {
+      "structure": "repurposed_structures:village_ocean",
+      "weight": 4
+    },
+    {
+      "structure": "hopo:underwater/underwater_city",
+      "weight": 2
+    }
+  ],
+  "placement": {
+    "type": "repurposed_structures:advanced_random_spread",
+    "salt": 1253441022,
+    "spacing": 40,
+    "separation": 24,
+    "super_exclusion_zone": {
+      "chunk_count": 20,
+      "other_set": "#settingsun:villages_underground_overworld_avoid"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+name = "Druids of Storm and Spirit"
+filename = "druids-0.9.5.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TTZunjcO/versions/mxBperri/druids-0.9.5.0.jar"
+hash-format = "sha1"
+hash = "b4e47a6059e9a3a716ab976b44366ffdad9f8a22"
+
+[update]
+[update.modrinth]
+mod-id = "TTZunjcO"
+version = "mxBperri"

@@ -1,0 +1,13 @@
+name = "MouseKeyInventoryFix"
+filename = "MouseKeyInventoryFix-Fabric-1.2.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/hapb9zWV/versions/goLp63ri/MouseKeyInventoryFix-Fabric-1.2.0.jar"
+hash-format = "sha1"
+hash = "e26c51e91fc3003b9b116d073f69a974a601724e"
+
+[update]
+[update.modrinth]
+mod-id = "hapb9zWV"
+version = "goLp63ri"

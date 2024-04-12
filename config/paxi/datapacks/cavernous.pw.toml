@@ -1,0 +1,13 @@
+name = "Cavernous"
+filename = "cavernous-r-v1-0-2.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Q14nLn1y/versions/SUj9IJ5U/cavernous-r-v1-0-2.zip"
+hash-format = "sha1"
+hash = "623f32346cf755870f79fa8afb5d049df2b8bef7"
+
+[update]
+[update.modrinth]
+mod-id = "Q14nLn1y"
+version = "SUj9IJ5U"

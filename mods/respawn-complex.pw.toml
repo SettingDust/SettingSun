@@ -1,13 +1,13 @@
 name = "Respawn Complex"
-filename = "respawn-complex-0.3.2-fabric.jar"
+filename = "respawn-complex-0.4.0-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/9y3yLMiB/versions/IkQWkkZ7/respawn-complex-0.3.2-fabric.jar"
+url = "https://cdn.modrinth.com/data/9y3yLMiB/versions/d5FxbaPD/respawn-complex-0.4.0-fabric.jar"
 hash-format = "sha1"
-hash = "849fa2476827588d5f96d57a58d15d5ea845e835"
+hash = "8f24aa31f99764589cc4f21b5efcaebc5c5ad5fa"
 
 [update]
 [update.modrinth]
 mod-id = "9y3yLMiB"
-version = "IkQWkkZ7"
+version = "d5FxbaPD"

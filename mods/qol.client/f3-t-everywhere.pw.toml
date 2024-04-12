@@ -1,0 +1,13 @@
+name = "Resource Reload (F3+T) Everywhere"
+filename = "f3teverywhere-1.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/lr5YSsF9/versions/TtWCrIT6/f3teverywhere-1.0.1.jar"
+hash-format = "sha1"
+hash = "9d8bf2291999f764c145bbe3353a903803731faa"
+
+[update]
+[update.modrinth]
+mod-id = "lr5YSsF9"
+version = "TtWCrIT6"

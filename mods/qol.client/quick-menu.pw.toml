@@ -1,0 +1,13 @@
+name = "Quick Menu"
+filename = "quick-menu-1.2.3-1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/7KwIbW9F/versions/bdEr4eal/quick-menu-1.2.3-1.20.1.jar"
+hash-format = "sha1"
+hash = "e8b799e0368f98ef0511096cd943d5a7f7c931a2"
+
+[update]
+[update.modrinth]
+mod-id = "7KwIbW9F"
+version = "bdEr4eal"

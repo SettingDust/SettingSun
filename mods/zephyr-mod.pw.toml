@@ -1,0 +1,13 @@
+name = "Zephyr"
+filename = "zephyr-0.3.0+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/14bALK1y/versions/T4YaSwkN/zephyr-0.3.0%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "f497f3b52557b64050886f2c53cea457b1964662"
+
+[update]
+[update.modrinth]
+mod-id = "14bALK1y"
+version = "T4YaSwkN"

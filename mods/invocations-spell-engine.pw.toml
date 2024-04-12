@@ -1,13 +1,13 @@
 name = "Invocations (Spell Engine)"
-filename = "invoke-0.1.0.jar"
+filename = "invoke-0.2.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "87d9c8ca28fc425cd78c87dfcbf15424cb1e55e0"
+hash = "35bd2c4a80d938f9b33b35517115fdeb9ace41dc"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4827818
+file-id = 5254338
 project-id = 910516

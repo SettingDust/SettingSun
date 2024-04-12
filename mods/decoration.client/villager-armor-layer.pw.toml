@@ -1,0 +1,13 @@
+name = "Villager Armor Layer"
+filename = "villagerarmor-5.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eTGQghnD/versions/3ygDin2o/villagerarmor-5.0.1.jar"
+hash-format = "sha1"
+hash = "59f88944d339b688303455d59a960d3d70d34e4c"
+
+[update]
+[update.modrinth]
+mod-id = "eTGQghnD"
+version = "3ygDin2o"

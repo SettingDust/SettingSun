@@ -1,0 +1,14 @@
+{
+    "distanthorizons": {
+        "text": {
+            "translate": "modsets.distanthorizons"
+        },
+        "description": {
+            "translate": "modsets.distanthorizons.description"
+        },
+        "mods": [
+            "distanthorizons",
+            "blendium"
+        ]
+    }
+}

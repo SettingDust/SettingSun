@@ -1,0 +1,20 @@
+{
+  "$schema": "https://github.com/SettingDust/ModSets/raw/main/rules.schema.json",
+  "text": {
+    "translate": "modsets.rules.experimential"
+  },
+  "rules": [
+    {
+      "text": {
+        "translate": "modsets.distanthorizons"
+      },
+      "description": {
+        "translate": "modsets.distanthorizons.description"
+      },
+      "controller": {
+        "type": "boolean",
+        "mod": "distanthorizons"
+      }
+    }
+  ]
+}

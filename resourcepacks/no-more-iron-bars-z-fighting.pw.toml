@@ -1,0 +1,13 @@
+name = "No More Iron Bars Z-Fighting"
+filename = "nomorezfightingironbars-1.13+.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/7GT2w2oP/versions/sjvSOIzH/nomorezfightingironbars-1.13%2B.zip"
+hash-format = "sha1"
+hash = "fa81e16e79088b379136a0ac648fffb544b98dd3"
+
+[update]
+[update.modrinth]
+mod-id = "7GT2w2oP"
+version = "sjvSOIzH"

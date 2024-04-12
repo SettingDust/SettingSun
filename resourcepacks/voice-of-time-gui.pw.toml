@@ -1,0 +1,13 @@
+name = "Voice of time GUI"
+filename = "Voice-of-time-GUI.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/8pkAHspE/versions/LwfWLbjk/Voice-of-time-GUI.zip"
+hash-format = "sha1"
+hash = "d4b00e573970a452e4dc39b78914c98061f36bb8"
+
+[update]
+[update.modrinth]
+mod-id = "8pkAHspE"
+version = "LwfWLbjk"

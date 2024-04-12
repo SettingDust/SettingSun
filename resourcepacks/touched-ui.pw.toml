@@ -1,0 +1,13 @@
+name = "Touched UI"
+filename = "§2§lTouched§d§l§uUI.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/61QCV3jy/versions/T2AT40Do/%C2%A72%C2%A7lTouched%C2%A7d%C2%A7l%C2%A7uUI.zip"
+hash-format = "sha1"
+hash = "71f54fd8e8e9a696ff19599d4f1a903ddc9e8694"
+
+[update]
+[update.modrinth]
+mod-id = "61QCV3jy"
+version = "T2AT40Do"

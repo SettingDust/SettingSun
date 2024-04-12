@@ -1,0 +1,2 @@
+["Village Spawn Point"]
+	"Exclude Village" = ["repurposed_structures:village_ocean", "towns_and_towers:village_ocean", "towns_and_towers:village_forest"]

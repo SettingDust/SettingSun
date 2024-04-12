@@ -1,0 +1,13 @@
+name = "Blendium"
+filename = "blendium-1.0.1+mc1.20.x.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/RE5cje8G/versions/p4VBrie9/blendium-1.0.1%2Bmc1.20.x.jar"
+hash-format = "sha1"
+hash = "435413f5988e9cb88e2e5aab89b52ebb173cc3db"
+
+[update]
+[update.modrinth]
+mod-id = "RE5cje8G"
+version = "p4VBrie9"

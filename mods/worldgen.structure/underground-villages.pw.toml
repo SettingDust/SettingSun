@@ -1,0 +1,13 @@
+name = "Underground Villages"
+filename = "UndergroundVillages-fabric-1.20.1-2.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iQ2U9xwG/versions/Xt5gPHu2/UndergroundVillages-fabric-1.20.1-2.1.0.jar"
+hash-format = "sha1"
+hash = "d062d69a15df04667b3ce2a0183bb0abb43895d9"
+
+[update]
+[update.modrinth]
+mod-id = "iQ2U9xwG"
+version = "Xt5gPHu2"

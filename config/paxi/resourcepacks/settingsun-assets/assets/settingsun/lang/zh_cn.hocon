@@ -1,0 +1,16 @@
+"settingsun.pack": "SettingSun 的资源包"
+
+"quests.at_first": "第一次开始"
+"dialogues.at_first.title": "你进入了第一个村庄，新的探险正在等待着你。\n指向村民再点击%s和当地的居民对话来了解这里吧"
+"dialogues.at_first.choice_end": "好的"
+
+"quests.talk_to_villager": "与村民对话"
+"dialogues.talk_to_villager.title": "欢迎你的到来，%s"
+"dialogues.talk_to_villager.choice_end": "好的"
+"dialogues.talk_to_villager.choice_leave": "别烦我"
+
+"quests.social_activity": "社交活动"
+
+"quests.talk_to_villager_leave": "强势回应"
+
+"quests.kill_zombies": "僵尸猎人"

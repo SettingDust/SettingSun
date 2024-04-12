@@ -1,0 +1,13 @@
+name = "DPU - A Datapack Utility & Feature Library"
+filename = "dpu-1.0.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/e3Sa031B/versions/c1DRN9qQ/dpu-1.0.7.jar"
+hash-format = "sha1"
+hash = "cfd595031f680274a8b0170248151494047e21a3"
+
+[update]
+[update.modrinth]
+mod-id = "e3Sa031B"
+version = "c1DRN9qQ"

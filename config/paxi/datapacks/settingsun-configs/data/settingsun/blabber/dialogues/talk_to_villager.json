@@ -1,0 +1,56 @@
+{
+  "$schema": "https://ladysnake.org/wiki/blabber/dialogue.schema.json",
+  "states": {
+    "start": {
+      "text": [
+        {
+          "translate": "dialogues.talk_to_villager.title",
+          "with": [
+            {
+              "selector": "@s"
+            }
+          ]
+        }
+      ],
+      "choices": [
+        {
+          "next": "end",
+          "text": {
+            "translate": "dialogues.talk_to_villager.choice_end"
+          }
+        },
+        {
+          "next": "leave",
+          "text": {
+            "translate": "dialogues.talk_to_villager.choice_leave"
+          }
+        }
+      ]
+    },
+    "end": {
+      "type": "end_dialogue",
+      "action": {
+        "type": "heracles-for-blabber:complete_task",
+        "value": {
+          "quest_id": "social_activity",
+          "task_id": "chat"
+        }
+      }
+    },
+    "leave": {
+      "type": "end_dialogue",
+      "action": {
+        "type": "heracles-for-blabber:complete_task",
+        "value": {
+          "quest_id": "talk_to_villager_leave",
+          "task_id": "leave"
+        }
+      }
+    }
+  },
+  "layout": {
+    "type": "blabber:rpg"
+  },
+  "unskippable": false,
+  "start_at": "start"
+}

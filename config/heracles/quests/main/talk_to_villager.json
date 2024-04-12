@@ -1,0 +1,60 @@
+{
+  "dependencies": [
+    "at_first"
+  ],
+  "tasks": {
+    "interact": {
+      "entity": "minecraft:villager",
+      "type": "heracles:entity_interaction"
+    }
+  },
+  "rewards": {
+    "talk_to_villager": {
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      },
+      "dialogue": "settingsun:talk_to_villager",
+      "type": "heracles-for-blabber:chat"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      ""
+    ],
+    "groups": {
+      "Main": {
+        "position": [
+          48,
+          0
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:villager_spawn_egg",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "quests.talk_to_villager.title"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": true,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

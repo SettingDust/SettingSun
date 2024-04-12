@@ -1,0 +1,22 @@
+# The configuration file for Log Begone
+
+[logbegone]
+# If a log message has one of these phrases, it will be filtered out from logging
+phrases = [
+  # NBTac
+  "Unable to get block entity class",
+  "Unable to get entity class for",
+  # Better Clouds
+  "Failed to post to telemetry endpoint",
+  # https://bugs.mojang.com/browse/MC-247421
+  "Error starting SoundSystem. Turning off sounds & music",
+  "Audio device was lost!",
+  "Missing sound for event: ",
+  # Mod Menu
+  "Invalid mod icon for icon source",
+  # Saplanting
+  # "Too many items! Cleared 1001 tasks."
+]
+
+# If a log message matches one of these regex patterns, it will be filtered out from logging. EX: 
+regex = []

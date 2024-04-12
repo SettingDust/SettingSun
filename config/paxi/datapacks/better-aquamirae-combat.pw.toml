@@ -1,0 +1,13 @@
+name = "Better Aquamirae Combat"
+filename = "aquamirae-bettercombat.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GYhWHsNr/versions/X4PEkgNt/aquamirae-bettercombat.zip"
+hash-format = "sha1"
+hash = "a5983e3bc019927956f14199d16ce6cc0c5fab0d"
+
+[update]
+[update.modrinth]
+mod-id = "GYhWHsNr"
+version = "X4PEkgNt"

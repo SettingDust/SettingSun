@@ -1,0 +1,13 @@
+name = "List Entry Highlight Fix"
+filename = "ListEntryHighlightFix-1.0.0+1.20.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/wkqxzYTM/versions/9jHC5NZu/ListEntryHighlightFix-1.0.0%2B1.20.jar"
+hash-format = "sha1"
+hash = "9b9f5dd8a3f63c06e526ba3f64c99a9a57b90637"
+
+[update]
+[update.modrinth]
+mod-id = "wkqxzYTM"
+version = "9jHC5NZu"
