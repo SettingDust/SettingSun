@@ -26,9 +26,19 @@
     "morecullingextra": {
       "recommends": {}
     },
-    "simplyskills" : {
+    "simplyskills": {
       "-depends": {
         "puffish_skills": "IGNORED"
+      }
+    },
+    "zenith": {
+      "-depends": {
+        "fabric": "IGNORED"
+      }
+    },
+    "t_and_t":{
+      "-depends": {
+        "cristellib": "IGNORED"
       }
     }
   }

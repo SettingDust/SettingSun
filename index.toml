@@ -335,6 +335,10 @@ file = "config/pickupnotifier/pickupnotifier-client.toml"
 hash = "18b635d1779df44a881bbb4aeea8e77403710672b35129600bce5e03f44af3aa"
 
 [[files]]
+file = "config/registry-blocker.json"
+hash = "d78dfa1e9e569a377bac42bc11c28fab27de43a082d20abcb0b0c75b88d0ebcb"
+
+[[files]]
 file = "config/serilum_spawn_tweaker-server.toml"
 hash = "95e1875f32c3266f42776bc398a6d0e948d3d6753856eeebf9e4a6cdc2881adc"
 
@@ -384,7 +388,7 @@ metafile = true
 
 [[files]]
 file = "mods/amethyst-core.pw.toml"
-hash = "b95e7e17bc562eb3fedd514ffc3e171f43cf93684bf5ba11c503a76bd1ac350e"
+hash = "314578c1b43a19dd5eaaeefb8540ed4a35cb988d756d8bd5e0547db5e5b96f21"
 metafile = true
 
 [[files]]
@@ -409,7 +413,7 @@ metafile = true
 
 [[files]]
 file = "mods/archers.pw.toml"
-hash = "0ba524b7123e6376687b0420f9dfc4794dea3f3bf64bda2a1b16a912b4dc7a1b"
+hash = "21f9ee5742ddcddfda730b1ad832f313118d6881268f23abe0a28b758a26957c"
 metafile = true
 
 [[files]]
@@ -563,11 +567,6 @@ hash = "44c45b4769e2a419cb455b02fdb29fb763c09ec4cde3e4142fc0ab460c39fd35"
 metafile = true
 
 [[files]]
-file = "mods/cristel-lib.pw.toml"
-hash = "9a4d1f42d2798dac502f7adcbee9b6691d7e79c50d91b23af11923893a686b8b"
-metafile = true
-
-[[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "1a65361cf2207ba6bad6eba3e66e407983452398c4ac5cbe5db0d8430b8a6496"
 metafile = true
@@ -647,11 +646,6 @@ hash = "73411b9b3fe43fe2f469b61ab490f67b11972dc93d5107af829e445f8107feb1"
 metafile = true
 
 [[files]]
-file = "mods/decoration.client/auto-third-person.pw.toml"
-hash = "b795f82c6f1f34676cd52ee7acc49bf9ef2469762c25b707bc8e0f2d3dab27a2"
-metafile = true
-
-[[files]]
 file = "mods/decoration.client/bedrockwaters.pw.toml"
 hash = "c43d57a46fe645d051ddc72bd6aa941bcfb953bc2f342dc8d870fe66e2f00152"
 metafile = true
@@ -664,11 +658,6 @@ metafile = true
 [[files]]
 file = "mods/decoration.client/better-clouds.pw.toml"
 hash = "f34711313112e49b00571a21870024db72669e85f1d73e58235b63c994be7165"
-metafile = true
-
-[[files]]
-file = "mods/decoration.client/better-selection.pw.toml"
-hash = "dc98068306355dbd70b0864afa45ef429017b05a875af7e0dde2b5485abf1c55"
 metafile = true
 
 [[files]]
@@ -1211,11 +1200,6 @@ hash = "587f21eee415f285af604a7ec8211c3966c9f12abbad720b3f483331e60c7a6d"
 metafile = true
 
 [[files]]
-file = "mods/fix.client/attributefix.pw.toml"
-hash = "60a99d744e2d72e272cef239ce12f6c446afb9a20cd71c11cc44aa0895f48526"
-metafile = true
-
-[[files]]
 file = "mods/fix.client/fixbookgui.pw.toml"
 hash = "1ecd25aa57d5a29ef69e3587c05a5f5c9d877b36e8790124b9373edd45010258"
 metafile = true
@@ -1361,11 +1345,6 @@ hash = "64d8b9b0578bac6021fd4abe239e98e090aec5bede9606c68151314077cddb22"
 metafile = true
 
 [[files]]
-file = "mods/herdspanic.pw.toml"
-hash = "46b44b530e3a305d207833ae7ba36808f09d77ffef22835076a69ed112e5784f"
-metafile = true
-
-[[files]]
 file = "mods/horsebuff.pw.toml"
 hash = "5e60804222681b936e5878d228fb10b5682e3af1d0eedbe120c0b4ee63cc8aaf"
 metafile = true
@@ -1417,7 +1396,7 @@ metafile = true
 
 [[files]]
 file = "mods/jewelry.pw.toml"
-hash = "83deffcfa6ff9b091047a7c4db75fb3b98ae1fcbe6e4b9fb16f083d960012f44"
+hash = "fcd6df67efdcf3fb109b0d0c0051eba085a18ea92ac64f8de482e7fa44051d63"
 metafile = true
 
 [[files]]
@@ -1548,11 +1527,6 @@ metafile = true
 [[files]]
 file = "mods/mobs-attempt-parkour.pw.toml"
 hash = "7e4520fb37ca7cf8b422d8b514d77211a6d5849d476fcef35772fe953e483f6f"
-metafile = true
-
-[[files]]
-file = "mods/mobs-on-rails.pw.toml"
-hash = "955bf0e98a858e5553e1c57929c3086d340e735bf711d5d57c12aceddba97846"
 metafile = true
 
 [[files]]
@@ -1827,7 +1801,7 @@ metafile = true
 
 [[files]]
 file = "mods/paladins-and-priests.pw.toml"
-hash = "39c3e92a27da25ebec1de7aa1f3055e83464c75279917dd8ec4534b4408c1be9"
+hash = "fc17f54efea6b8e4640320a9a96f65af058eed05aa2c2f07b34940ffd91092e4"
 metafile = true
 
 [[files]]
@@ -1858,11 +1832,6 @@ metafile = true
 [[files]]
 file = "mods/potion-cauldron.pw.toml"
 hash = "f433a39ad08a8c52dcdc52e8fbbccc407367916d8e531da5e755b65819862aed"
-metafile = true
-
-[[files]]
-file = "mods/powershot.pw.toml"
-hash = "8502e086c7e0e445bc154f968a0b81867b671febee136c57330b5a534b496a41"
 metafile = true
 
 [[files]]
@@ -2447,7 +2416,7 @@ metafile = true
 
 [[files]]
 file = "mods/ranged-weapon-api.pw.toml"
-hash = "9b5c17f5635dbb62bf7275b555a037471f4e6131eb053cf243808f30126481dd"
+hash = "5bcf5b6742a1689ed67578adfe02702fbe710b9d0ea79079bedaebc086d539d9"
 metafile = true
 
 [[files]]
@@ -2542,12 +2511,12 @@ metafile = true
 
 [[files]]
 file = "mods/simply-skills.pw.toml"
-hash = "f0a05bf26135f9f5a5efb3217e29af9816e69484e5723ac001ed6ed768a987a1"
+hash = "0e9b75b761a1140bc622bf033e1f7781d7c318976802d8f3a9805a64cb4814e3"
 metafile = true
 
 [[files]]
 file = "mods/simply-swords.pw.toml"
-hash = "c88d8d2d1638d2ecdd793b8f91e0dd7b5aefe5ee79f1223896363bb31e3aea55"
+hash = "7434dfd1c4b2c2c96d9555faac9859cb78649fb71ed840094117978c99c815ba"
 metafile = true
 
 [[files]]
@@ -2592,12 +2561,12 @@ metafile = true
 
 [[files]]
 file = "mods/spell-engine.pw.toml"
-hash = "333e71ff460100726d0074d98f157d6641d95e4fbb1ea50b862d3dfa0dcf0fa6"
+hash = "aaf3d7ccbcd050662a4ad01e82a561403716e74a45410da71d05d4c8cb42dcdc"
 metafile = true
 
 [[files]]
 file = "mods/spell-power.pw.toml"
-hash = "930b34fba49b8fa535d0bd23bcce6329b45ffde876809ba144eefe8489d76938"
+hash = "90d44341ae2126a91ebdd1ecab13a23e2ee0f21af87fc286bb5eb8a53e87e463"
 metafile = true
 
 [[files]]
@@ -2667,7 +2636,7 @@ metafile = true
 
 [[files]]
 file = "mods/tools.client/data-dumper.pw.toml"
-hash = "126f3e6bfafc7e4ee8aae44ffa7ac01b4daabb101ff1f3802d8d02f9ae52ab54"
+hash = "66c63aa1c9f1011e795ca524ca4e3e9b46fe3cdf13fc855c5780aa94a6f63558"
 metafile = true
 
 [[files]]
@@ -2916,7 +2885,7 @@ metafile = true
 
 [[files]]
 file = "mods/tools/registry-blocker.pw.toml"
-hash = "9103a1b2facd9b6102e2c41282b8647fef2d3bf0f778540c51302e16fb165841"
+hash = "96efef9892edb5194030115dd02896755203301bea65ec7fa60f5021dd70589f"
 metafile = true
 
 [[files]]
@@ -2995,11 +2964,6 @@ hash = "007f7e8dd2243ce95c2306ecbc5f2b230fd8388035e0bce10c9879de81d3dc28"
 metafile = true
 
 [[files]]
-file = "mods/videotape.pw.toml"
-hash = "9551dd0b80f44fd212a0ce14d9c3ffa2c1775468f2b4c94f891385d4806c783d"
-metafile = true
-
-[[files]]
 file = "mods/villagersplus.pw.toml"
 hash = "58aa6f9e8041a3e6c5a5ee79e4fbd42185de5e32434172c3465da394a5eb7b19"
 metafile = true
@@ -3017,11 +2981,6 @@ metafile = true
 [[files]]
 file = "mods/voidz.pw.toml"
 hash = "e7667444039cd243e349ea1ae6ef97e2b405c619e3102bb0522cf7ede009c451"
-metafile = true
-
-[[files]]
-file = "mods/volume-fix.pw.toml"
-hash = "1b79367022b6b1c458fa1be25ba2c9d379426845a43aa581957a5d9d3381a83e"
 metafile = true
 
 [[files]]
@@ -3046,7 +3005,7 @@ metafile = true
 
 [[files]]
 file = "mods/wizards.pw.toml"
-hash = "8d142e1319e2fef1dfe2cce0069befc9278e32ccb2a22c208fbe00efa99a232f"
+hash = "140e98c0720e92b4ed9864a485b1b73a088a3d321ecc7439a3c6bb17235a2fa0"
 metafile = true
 
 [[files]]
@@ -3296,7 +3255,7 @@ metafile = true
 
 [[files]]
 file = "mods/zephyr-mod.pw.toml"
-hash = "3dab2d3876f1867e6eaf00f17d4d338909da3400dcdfe6815b5b329d55cd1338"
+hash = "ab0b5048ced8ad201595f64915e700b347cb0db9aa4c0ee03bc647e6c6994b9e"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "Data Dumper"
-filename = "DataDumper-0.1.0+sha.73ef8a0.jar"
+filename = "DataDumper-0.1.1+sha.b5c743e.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/dzhWXFGZ/versions/Wi4rwWbZ/DataDumper-0.1.0%2Bsha.73ef8a0.jar"
+url = "https://cdn.modrinth.com/data/dzhWXFGZ/versions/rONZ4st0/DataDumper-0.1.1%2Bsha.b5c743e.jar"
 hash-format = "sha1"
-hash = "1674c553a28b88128de4ec0d95bf1bff65062ba0"
+hash = "5facb69380dace9c92472ac3fa4a4b6eda2006e8"
 
 [update]
 [update.modrinth]
 mod-id = "dzhWXFGZ"
-version = "Wi4rwWbZ"
+version = "rONZ4st0"
