@@ -54,7 +54,7 @@ hash = "e0dc80d3ca4e93d206333f24554f1e5aef78affcbefe69e237eff15fbaeaadc3"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "1c28b82b8dd4dc92ea532853003ffc26f22662098f1b34b561651b230bacde99"
+hash = "8b5e436230fd91653b9f8faffec9a770e4b2c146f805df52b2e4a84dc7f20542"
 
 [[files]]
 file = "config/gadget.json5"
@@ -82,7 +82,7 @@ hash = "3ee4fc4dea2619980a842af8e3b992a25d5aa0e3405c693d4d5def280928fa03"
 
 [[files]]
 file = "config/jade/jade.json"
-hash = "204926333ee6e496ab583a1acd3c01eff7e172ca3c2fd4b173efea14f11484d7"
+hash = "1579fa61360b575109f6ad6b533fff4f43dd300538e4651e4b53f712d54f80b6"
 
 [[files]]
 file = "config/jade/plugins.json"
@@ -122,7 +122,7 @@ hash = "11bb8167bddc4295d45abcd3a9b9887e0b730946a764f4f029494b9358d463da"
 
 [[files]]
 file = "config/modsets/disabled_mods.json"
-hash = "b4f95a2b6ea8e42dbef77e64bfb64670080a83e3c1517bfd3936f17e136f4ac2"
+hash = "88c0d5f7c73ed7ddd0352ffcc421d9df8a1900aa1476a94288fac4cf9ce277a1"
 
 [[files]]
 file = "config/modsets/modsets.json"
@@ -469,6 +469,11 @@ metafile = true
 [[files]]
 file = "mods/beans-backpacks.pw.toml"
 hash = "7899a0030cce4a46b1671a83399ca18313a88b28f59fc94c1224ab4eb505d5f7"
+metafile = true
+
+[[files]]
+file = "mods/bendy-lib.pw.toml"
+hash = "c6418d6303e17bb3ab2844eac7b05d55601e3137eaeb0ea5ff61672f6dddf8df"
 metafile = true
 
 [[files]]
@@ -832,7 +837,7 @@ metafile = true
 
 [[files]]
 file = "mods/decoration.client/immersivemusicmod.pw.toml"
-hash = "891bdc2a31db99960e15a8babc807d5a2754f73fae8ca1806045b37ff61aae69"
+hash = "203d5e70c4b616d6d338bea3acb03dc716946d41cedb0f0a22829c982725abfb"
 metafile = true
 
 [[files]]
@@ -1091,7 +1096,7 @@ metafile = true
 
 [[files]]
 file = "mods/duckling.pw.toml"
-hash = "a01deba8400ea1f57197e435685db307d5d8de909ad26d4cd04c0d09c933902a"
+hash = "df8d6dd5a9f55f4c93990eb8c41935dd620fe54d91a71d653a0f657a7ecce308"
 metafile = true
 
 [[files]]
@@ -1171,7 +1176,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "aad27d850a8fdac514018c20d41a3a1cb9d288b176e6f0a068dfe48851098972"
+hash = "b7a1fb2faac9cd962d6ce3fad226e9deeb2194b10f6b545b10ce65fc2e63f73d"
 metafile = true
 
 [[files]]
@@ -1757,6 +1762,11 @@ metafile = true
 [[files]]
 file = "mods/optimize/lithium.pw.toml"
 hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
+metafile = true
+
+[[files]]
+file = "mods/optimize/mobtimizations.pw.toml"
+hash = "860db3da30e2e3d9fcec655d38704be88b593b85c7770fa76c30de6a537691d7"
 metafile = true
 
 [[files]]
@@ -2605,6 +2615,11 @@ hash = "f755f712bb78b28a4d128a24178accce8a6f418957adca184c5538b9327f493e"
 metafile = true
 
 [[files]]
+file = "mods/stutterfix.pw.toml"
+hash = "0174f372918ed7eb79d853c42943495b0d5d9bb6ab7326ca30f466dbc340d4ef"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "515c7bc565f95c472aa347085937d4f96e02498ac68b15158a723fe876a3d3fb"
 metafile = true
@@ -2746,6 +2761,11 @@ metafile = true
 [[files]]
 file = "mods/tools/carbon.pw.toml"
 hash = "7047865b44a0e0104f1e6e14c2c90ee6f269a3066547d0c27a7b3521bf5792ee"
+metafile = true
+
+[[files]]
+file = "mods/tools/chunky-extension.pw.toml"
+hash = "a217e41e6f44af521e40325b4e4fbedc918b97149ee65f81a0d4ec4c211a0432"
 metafile = true
 
 [[files]]
@@ -3110,7 +3130,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldgen.structure/philips-ruins.pw.toml"
-hash = "85df23fd9e55e725c902b4cac5a32e35c0f15c7add7b5e4a3a440d1233e6226d"
+hash = "402a0cd21b841d08d7479d1654b4e5a7ffab258009256144f94e9f5b31fea5ce"
 metafile = true
 
 [[files]]
@@ -3323,6 +3343,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/authentic-shadows.pw.toml"
 hash = "c327a189d9145dff0b8df1704173fc20a91b2f804c3d6346d7b3201ded0ad04c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/bedrock-waters.pw.toml"
+hash = "41646e5dbb47cf1d9b6b05bc44e8b6dd91d933ffde0ea29a0684d1a2c42faecb"
 metafile = true
 
 [[files]]
