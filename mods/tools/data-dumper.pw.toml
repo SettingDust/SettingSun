@@ -1,0 +1,13 @@
+name = "Data Dumper"
+filename = "DataDumper-0.3.0+sha.511c706.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dzhWXFGZ/versions/HrXhuPDk/DataDumper-0.3.0%2Bsha.511c706.jar"
+hash-format = "sha1"
+hash = "a047b3274cb353778fdbb73ac2a2320bd57a77c2"
+
+[update]
+[update.modrinth]
+mod-id = "dzhWXFGZ"
+version = "HrXhuPDk"

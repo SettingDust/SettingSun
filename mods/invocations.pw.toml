@@ -1,13 +1,13 @@
 name = "Invocations"
-filename = "invoke-0.2.2.1.jar"
+filename = "invoke-0.2.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/xwHe8V3O/versions/zGJH66UK/invoke-0.2.2.1.jar"
+url = "https://cdn.modrinth.com/data/xwHe8V3O/versions/s62bq7YK/invoke-0.2.3.jar"
 hash-format = "sha1"
-hash = "5d3e958071e0cec6bdc8a9535e1f87c0338cd6db"
+hash = "35bd2c4a80d938f9b33b35517115fdeb9ace41dc"
 
 [update]
 [update.modrinth]
 mod-id = "xwHe8V3O"
-version = "zGJH66UK"
+version = "s62bq7YK"

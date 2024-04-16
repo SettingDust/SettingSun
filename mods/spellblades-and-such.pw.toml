@@ -1,13 +1,13 @@
 name = "Spellblades and Such"
-filename = "spellbladenext-1.10.1.jar"
+filename = "spellbladenext-1.11.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/VJkx9nDN/versions/Fx9u7Tvx/spellbladenext-1.10.1.jar"
+url = "https://cdn.modrinth.com/data/VJkx9nDN/versions/NCqgiihL/spellbladenext-1.11.0.jar"
 hash-format = "sha1"
-hash = "6514d0d657371d3c8acdfef0bec299edbeb72afb"
+hash = "635bb958a8f304c85238fa8672c6a6a18376cb45"
 
 [update]
 [update.modrinth]
 mod-id = "VJkx9nDN"
-version = "Fx9u7Tvx"
+version = "NCqgiihL"

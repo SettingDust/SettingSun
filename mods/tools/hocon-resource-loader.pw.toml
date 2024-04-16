@@ -1,13 +1,13 @@
 name = "Hocon Resource Loader"
-filename = "HoconResourceLoader-0.2.6+sha.f41c20f.jar"
+filename = "HoconResourceLoader-0.2.7+sha.6d9dadf.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/r569qlAV/versions/Y0SPIeBy/HoconResourceLoader-0.2.6%2Bsha.f41c20f.jar"
+url = "https://cdn.modrinth.com/data/r569qlAV/versions/NTqQtJ7h/HoconResourceLoader-0.2.7%2Bsha.6d9dadf.jar"
 hash-format = "sha1"
-hash = "1f4f8ff5677db852c9eb241122f164ca11cacd0d"
+hash = "e4573960435cc68c5b6b8fcd163c63f868954483"
 
 [update]
 [update.modrinth]
 mod-id = "r569qlAV"
-version = "Y0SPIeBy"
+version = "NTqQtJ7h"
