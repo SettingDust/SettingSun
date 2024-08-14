@@ -1,0 +1,13 @@
+name = "Adapting Shulkers"
+filename = "§b Adapting Shulkers§r 1.4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/H5oQuPXw/versions/CzvzdD4N/%EF%80%96%C2%A7b%20Adapting%20Shulkers%C2%A7r%20%EF%80%971.4.zip"
+hash-format = "sha1"
+hash = "9fe9cea2f78ef5e1efd2ce9a66b7e8a06693e726"
+
+[update]
+[update.modrinth]
+mod-id = "H5oQuPXw"
+version = "CzvzdD4N"

@@ -1,13 +1,13 @@
 name = "Better Suggestions"
-filename = "better-suggestions-1.20.1-1.2.2.jar"
+filename = "better-suggestions-1.20.1-1.2.2.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/HfZKWsjM/versions/b94OxenN/better-suggestions-1.20.1-1.2.2.jar"
+url = "https://cdn.modrinth.com/data/HfZKWsjM/versions/ITc4fFDw/better-suggestions-1.20.1-1.2.2.1.jar"
 hash-format = "sha1"
-hash = "585b0f7007e5150234ba60c15b76c4470938aac7"
+hash = "091d584f41f0ba43355b265c68944514432279a7"
 
 [update]
 [update.modrinth]
 mod-id = "HfZKWsjM"
-version = "b94OxenN"
+version = "ITc4fFDw"

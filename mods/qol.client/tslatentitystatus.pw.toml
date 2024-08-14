@@ -1,13 +1,13 @@
 name = "TslatEntityStatus"
-filename = "TES-fabric-1.20.1-1.5.jar"
+filename = "TES-fabric-1.20.1-1.5.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/4A86JsDZ/versions/hXC2SXbZ/TES-fabric-1.20.1-1.5.jar"
+url = "https://cdn.modrinth.com/data/4A86JsDZ/versions/BsJn58K6/TES-fabric-1.20.1-1.5.1.jar"
 hash-format = "sha1"
-hash = "20c5759a6919b7a4eea9794b4c99bc5203e556ee"
+hash = "2d17aeb835d6fbcc469fd70d68aa940b2341e2f9"
 
 [update]
 [update.modrinth]
 mod-id = "4A86JsDZ"
-version = "hXC2SXbZ"
+version = "BsJn58K6"

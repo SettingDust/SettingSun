@@ -1,13 +1,13 @@
 name = "Heracles For Villagers"
-filename = "HeraclesForVillagers-0.4.0+sha.529a9c3.jar"
+filename = "HeraclesForVillagers-0.4.2+sha.da125fa.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e1c2cfc27e8e63516500070b6efb73c22559c0d6"
+hash = "fdda751e62422555ff0d0e8e4bc7709532823cf0"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5251125
+file-id = 5610245
 project-id = 957468

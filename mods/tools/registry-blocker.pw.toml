@@ -1,13 +1,13 @@
 name = "Registry Blocker"
-filename = "RegistryBlocker-0.2.0+sha.5ee091e.jar"
+filename = "RegistryBlocker-0.3.0+sha.de44f6d.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/uy92ImJL/versions/lAgIIMcf/RegistryBlocker-0.2.0%2Bsha.5ee091e.jar"
+url = "https://cdn.modrinth.com/data/uy92ImJL/versions/y9F5QaQI/RegistryBlocker-0.3.0%2Bsha.de44f6d.jar"
 hash-format = "sha1"
-hash = "8d04053a498d50bb8e10b205cc5a3dc4f5fa6824"
+hash = "210103de41eb4705c7d7ba4b618878bba1561841"
 
 [update]
 [update.modrinth]
 mod-id = "uy92ImJL"
-version = "lAgIIMcf"
+version = "y9F5QaQI"

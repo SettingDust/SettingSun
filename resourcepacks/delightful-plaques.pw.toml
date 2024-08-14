@@ -1,13 +1,13 @@
 name = "Delightful Plaques"
-filename = "Delightful-Plaques-v1.1.zip"
+filename = "Delightful-plaques-1.1+(1.20.1).zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/UrO57mt2/versions/3KzxDgfd/Delightful-Plaques-v1.1.zip"
+url = "https://cdn.modrinth.com/data/UrO57mt2/versions/onh9PrLy/Delightful-plaques-1.1%2B%281.20.1%29.zip"
 hash-format = "sha1"
-hash = "f6805bcda3cf7753b0871f56ce13c4a61435ae52"
+hash = "75ccbf4da82eddc8ed231870301ef2b16be6bb2e"
 
 [update]
 [update.modrinth]
 mod-id = "UrO57mt2"
-version = "3KzxDgfd"
+version = "onh9PrLy"

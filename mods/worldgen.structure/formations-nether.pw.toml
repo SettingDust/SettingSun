@@ -1,13 +1,13 @@
 name = "Formations Nether"
-filename = "formationsnether-1.0.3.jar"
+filename = "formationsnether-1.0.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/cGvQGRls/versions/AcLNFJBz/formationsnether-1.0.3.jar"
+url = "https://cdn.modrinth.com/data/cGvQGRls/versions/HBTE0lZv/formationsnether-1.0.5.jar"
 hash-format = "sha1"
-hash = "e8c635056c92b764598ed3f60de4c2a99db75817"
+hash = "5a6371db683b4d33f5034f7d192424cfe73ea05f"
 
 [update]
 [update.modrinth]
 mod-id = "cGvQGRls"
-version = "AcLNFJBz"
+version = "HBTE0lZv"

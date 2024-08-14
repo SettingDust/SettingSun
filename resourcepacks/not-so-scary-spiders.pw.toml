@@ -1,0 +1,13 @@
+name = "Not So Scary Spiders"
+filename = "Not So Scary Spiders.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2PDXJXQd/versions/s8aY36Fb/Not%20So%20Scary%20Spiders.zip"
+hash-format = "sha1"
+hash = "31e1c996574f347f5027be4a6374db768adf4a3c"
+
+[update]
+[update.modrinth]
+mod-id = "2PDXJXQd"
+version = "s8aY36Fb"

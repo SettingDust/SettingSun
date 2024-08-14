@@ -1,13 +1,13 @@
 name = "asahi"
-filename = "asahi-1.0.2.jar"
+filename = "asahi-1.1.0+1.20.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/CPo6Ht5f/versions/6H3LJhSi/asahi-1.0.2.jar"
+url = "https://cdn.modrinth.com/data/CPo6Ht5f/versions/6oJsrNKH/asahi-1.1.0%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "d6a29c3e6679c1d22c08babddbdcaeaa54ab2644"
+hash = "a046a905cb9286e89461373f1118d57cb5eddb47"
 
 [update]
 [update.modrinth]
 mod-id = "CPo6Ht5f"
-version = "6H3LJhSi"
+version = "6oJsrNKH"

@@ -1,0 +1,13 @@
+name = "Drodi's Villagers"
+filename = "§6Drodi's Villagers [V2.6].zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/aHb08bby/versions/XtMmrboY/%C2%A76Drodi%27s%20Villagers%20%5BV2.6%5D.zip"
+hash-format = "sha1"
+hash = "277ca81795600df2aff48f4c2df0987e883c8de4"
+
+[update]
+[update.modrinth]
+mod-id = "aHb08bby"
+version = "XtMmrboY"

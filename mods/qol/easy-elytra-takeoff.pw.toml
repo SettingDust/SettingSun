@@ -1,13 +1,13 @@
 name = "Easy Elytra Takeoff"
-filename = "easyelytratakeoff-1.20.1-4.2.jar"
+filename = "easyelytratakeoff-1.20.1-4.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/3hqwGCUB/versions/hya1UIhv/easyelytratakeoff-1.20.1-4.2.jar"
+url = "https://cdn.modrinth.com/data/3hqwGCUB/versions/SNRYcqIe/easyelytratakeoff-1.20.1-4.4.jar"
 hash-format = "sha1"
-hash = "ddc1741931db18ea00495cd6107a35556b723062"
+hash = "c8ae354c87be13c4894c7fbc06287e9dcc67a7f7"
 
 [update]
 [update.modrinth]
 mod-id = "3hqwGCUB"
-version = "hya1UIhv"
+version = "SNRYcqIe"

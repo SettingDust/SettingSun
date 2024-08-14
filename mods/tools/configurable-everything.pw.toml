@@ -1,13 +1,13 @@
 name = "Configurable Everything"
-filename = "ConfigurableEverything-1.1.1-Fabric+1.20.1.jar"
+filename = "ConfigurableEverything-1.2-mc1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/2OtUT3F2/versions/KSHaJYiP/ConfigurableEverything-1.1.1-Fabric%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/2OtUT3F2/versions/b2VzCVta/ConfigurableEverything-1.2-mc1.20.1.jar"
 hash-format = "sha1"
-hash = "70fdd8c8b78f2d60da2c09f43ff1ea40c9991ef4"
+hash = "48c9dc6b296a6caa86e316f006d5c4376cd8e9da"
 
 [update]
 [update.modrinth]
 mod-id = "2OtUT3F2"
-version = "KSHaJYiP"
+version = "b2VzCVta"

@@ -1,13 +1,13 @@
 name = "Fresh Moves"
-filename = "Eyeless Fresh Moves v2.2.zip"
+filename = "Eyeless Fresh Moves v3.0.1.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/slufHzC2/versions/VIXKvAkL/Eyeless%20Fresh%20Moves%20v2.2.zip"
+url = "https://cdn.modrinth.com/data/slufHzC2/versions/czKkLETN/Eyeless%20Fresh%20Moves%20v3.0.1.zip"
 hash-format = "sha1"
-hash = "a13c08d53110ddeb8cf50ac4e3cf31f05fcce5b1"
+hash = "afc40bb6a1f77ada948ce07e3c3cf0210cd72c89"
 
 [update]
 [update.modrinth]
 mod-id = "slufHzC2"
-version = "VIXKvAkL"
+version = "czKkLETN"

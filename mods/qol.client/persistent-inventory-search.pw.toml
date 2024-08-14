@@ -1,13 +1,13 @@
 name = "Persistent Inventory Search"
-filename = "persistentinventorysearch-1.20.1-1.4.jar"
+filename = "persistentinventorysearch-1.20.1-1.5.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/KYSUUp57/versions/aU3X09rh/persistentinventorysearch-1.20.1-1.4.jar"
+url = "https://cdn.modrinth.com/data/KYSUUp57/versions/abfEKxIh/persistentinventorysearch-1.20.1-1.5.jar"
 hash-format = "sha1"
-hash = "0bb8be414277e981a43ef8165f0ec6077861f127"
+hash = "9dc0d5052619feca367955d51ccbb32910a2cb44"
 
 [update]
 [update.modrinth]
 mod-id = "KYSUUp57"
-version = "aU3X09rh"
+version = "abfEKxIh"
