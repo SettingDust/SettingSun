@@ -1,7 +1,5 @@
 {
-  "dependencies": [
-    "talk_to_villager"
-  ],
+  "dependencies": [],
   "tasks": {
     "talk_to_villagers": {
       "icon": {
@@ -35,7 +33,7 @@
     "groups": {
       "Main": {
         "position": [
-          96,
+          144,
           0
         ]
       }
@@ -52,7 +50,7 @@
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
-      "translate": "quests.kill_zombies.title"
+      "translate": "quests.kill_zombies"
     }
   },
   "settings": {
@@ -60,7 +58,7 @@
     "repeatable": false,
     "autoClaimRewards": false,
     "individual_progress": false,
-    "hidden": "LOCKED",
+    "hidden": "IN_PROGRESS",
     "unlockNotification": false
   }
 }

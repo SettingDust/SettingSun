@@ -1,13 +1,13 @@
 name = "More Profiling"
-filename = "MoreProfiling-0.11.0+sha.82b1d2a.jar"
+filename = "MoreProfiling-0.14.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/sFFmwP9u/versions/RbPgaffr/MoreProfiling-0.11.0%2Bsha.82b1d2a.jar"
+url = "https://cdn.modrinth.com/data/sFFmwP9u/versions/wCCxw3Fg/MoreProfiling-0.14.0.jar"
 hash-format = "sha1"
-hash = "97f7b40bee85966a0604c7e46e60bb97a9d8fe41"
+hash = "4a59434055c86487318f1592235ff7643321ed46"
 
 [update]
 [update.modrinth]
 mod-id = "sFFmwP9u"
-version = "RbPgaffr"
+version = "wCCxw3Fg"

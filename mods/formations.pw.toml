@@ -1,6 +1,6 @@
 name = "Formations (Structure Library)"
 filename = "formations-1.0.2-fabric-mc1.20.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/tPe4xnPd/versions/ZWJHChp3/formations-1.0.2-fabric-mc1.20.jar"

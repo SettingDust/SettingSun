@@ -1,13 +1,13 @@
 name = "Berserker (More RPG Classes)"
-filename = "berserker-class-mod-1.0.8.jar"
+filename = "berserker-class-mod-1.1.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/8hqOZzxM/versions/70nG9P6b/berserker-class-mod-1.0.8.jar"
+url = "https://cdn.modrinth.com/data/8hqOZzxM/versions/oUCqGa4g/berserker-class-mod-1.1.0.jar"
 hash-format = "sha1"
-hash = "f7c212f0bd172cdad031b38436bd2677d192fa7d"
+hash = "44943bee00b734cb22023f36aa836c2b38e57c9e"
 
 [update]
 [update.modrinth]
 mod-id = "8hqOZzxM"
-version = "70nG9P6b"
+version = "oUCqGa4g"

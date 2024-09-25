@@ -1,0 +1,13 @@
+name = "Death Knights"
+filename = "Death_Knights-0.3.5beta+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2EQER1gD/versions/CelVyycG/Death_Knights-0.3.5beta%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "7f92717595453c57ce507d52b7189204bf133a7e"
+
+[update]
+[update.modrinth]
+mod-id = "2EQER1gD"
+version = "CelVyycG"

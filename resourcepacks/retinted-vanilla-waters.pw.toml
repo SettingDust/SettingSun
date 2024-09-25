@@ -1,0 +1,13 @@
+name = "Retinted: Vanilla Waters"
+filename = "retinted_vanilla_waters.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2XZRuHg1/versions/yxIVMPV4/retinted_vanilla_waters.zip"
+hash-format = "sha1"
+hash = "902fb945eb8b8f8660937d816e6b529b9eec0f01"
+
+[update]
+[update.modrinth]
+mod-id = "2XZRuHg1"
+version = "yxIVMPV4"

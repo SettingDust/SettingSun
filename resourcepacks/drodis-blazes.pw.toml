@@ -1,0 +1,13 @@
+name = "Drodi's Blazes"
+filename = "§4Drodi's Blazes [V1.2].zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/8VQ6comv/versions/h1iG38Yx/%C2%A74Drodi%27s%20Blazes%20%5BV1.2%5D.zip"
+hash-format = "sha1"
+hash = "377c38c97f42908eea6d7119c979ec52ad48b492"
+
+[update]
+[update.modrinth]
+mod-id = "8VQ6comv"
+version = "h1iG38Yx"

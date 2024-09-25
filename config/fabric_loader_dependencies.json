@@ -9,9 +9,6 @@
     "configurable_everything": {
       "-depends": {
         "fabric-language-kotlin": "IGNORED"
-      },
-      "+depends": {
-        "fabric-language-kotlin": "\u003e\u003d1.10.10+kotlin.1.9.10"
       }
     },
     "debugify": {
@@ -28,7 +25,7 @@
     },
     "simplyskills": {
       "-depends": {
-        "puffish_skills": "IGNORED"
+        "spell_engine": "IGNORED"
       }
     },
     "zenith": {
@@ -39,6 +36,21 @@
     "t_and_t":{
       "-depends": {
         "cristellib": "IGNORED"
+      }
+    },
+    "arrowentitylootdrop":{
+      "-depends": {
+        "minecraft": "IGNORED"
+      }
+    },
+    "dungeonnowloading":{
+      "-depends": {
+        "fabricloader": "IGNORED"
+      }
+    },
+    "sushi_bar":{
+      "-breaks": {
+        "lavender": "IGNORED"
       }
     }
   }

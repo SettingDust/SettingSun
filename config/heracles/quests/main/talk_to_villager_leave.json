@@ -1,0 +1,56 @@
+{
+  "dependencies": [
+    "talk_to_villager"
+  ],
+  "tasks": {
+    "leave": {
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      },
+      "dialogue": "settingsun:talk_to_villager",
+      "need_action": true,
+      "title": "",
+      "type": "heracles-for-blabber:chat"
+    }
+  },
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      ""
+    ],
+    "groups": {
+      "Main": {
+        "position": [
+          96,
+          48
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:map",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "quests.talk_to_villager_leave"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": true,
+    "autoClaimRewards": true,
+    "individual_progress": false,
+    "hidden": "COMPLETED",
+    "unlockNotification": false
+  }
+}

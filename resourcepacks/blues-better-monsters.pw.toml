@@ -1,0 +1,13 @@
+name = "Blue's Better Monsters"
+filename = "Blues_Better_Monsters_v0.10.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/MhBq4iya/versions/NQdXhVcY/Blues_Better_Monsters_v0.10.zip"
+hash-format = "sha1"
+hash = "cdf9f00f981699cbbf9913690917208ef696ce8b"
+
+[update]
+[update.modrinth]
+mod-id = "MhBq4iya"
+version = "NQdXhVcY"

@@ -1,0 +1,13 @@
+name = "Drodi's Slimes"
+filename = "§aDrodi's Slimes [V1.2].zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/bd0HJjQk/versions/J80qIEhL/%C2%A7aDrodi%27s%20Slimes%20%5BV1.2%5D.zip"
+hash-format = "sha1"
+hash = "c719dc422f3736623b7cd453621f60a1c6cad3e9"
+
+[update]
+[update.modrinth]
+mod-id = "bd0HJjQk"
+version = "J80qIEhL"

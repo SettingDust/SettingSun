@@ -46,7 +46,7 @@
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
     "title": {
-      "translate": "quests.talk_to_villager.title"
+      "translate": "quests.talk_to_villager"
     }
   },
   "settings": {
@@ -54,7 +54,7 @@
     "repeatable": false,
     "autoClaimRewards": true,
     "individual_progress": false,
-    "hidden": "LOCKED",
+    "hidden": "IN_PROGRESS",
     "unlockNotification": false
   }
 }

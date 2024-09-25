@@ -1,13 +1,13 @@
 name = "More RPG Classes"
-filename = "more_rpg_classes-1.1.10-1.20.1.jar"
+filename = "more_rpg_classes-1.2.4-1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Wkc3lwHo/versions/pNoHf5pE/more_rpg_classes-1.1.10-1.20.1.jar"
+url = "https://cdn.modrinth.com/data/Wkc3lwHo/versions/k0umddfD/more_rpg_classes-1.2.4-1.20.1.jar"
 hash-format = "sha1"
-hash = "fbde275690e81faf84fb3da6d39747095fc45461"
+hash = "85a9c9728e5103810c4c6ad2367be6e827998324"
 
 [update]
 [update.modrinth]
 mod-id = "Wkc3lwHo"
-version = "pNoHf5pE"
+version = "k0umddfD"

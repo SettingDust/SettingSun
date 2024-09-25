@@ -44,7 +44,7 @@
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
     "title": {
-      "translate": "quests.at_first.title"
+      "translate": "quests.at_first"
     }
   },
   "settings": {

@@ -1,4 +1,4 @@
-name = "Setting Sun"
+name = "The Abyss"
 author = "SettingDust"
 version = "0.0.1"
 pack-format = "packwiz:1.1.0"
@@ -6,10 +6,10 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "1dee40f4183d72b8f00232a7792846aa2197730dfe007cc0891525e6b22919c1"
+hash = "930e56b34a626b2fa926a52441b967d53a777a525b9edbad2dbc56afa7afcb0f"
 
 [versions]
-fabric = "0.14.24"
+fabric = "0.16.5"
 minecraft = "1.20.1"
 
 [options]

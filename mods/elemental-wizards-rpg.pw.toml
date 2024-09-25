@@ -1,13 +1,13 @@
 name = "Elemental Wizards (More RPG Classes)"
-filename = "elemental_wizards_rpg-1.1.4.jar"
+filename = "elemental_wizards_rpg-1.2.2-1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/PeZ4h4i0/versions/GZJoGVQT/elemental_wizards_rpg-1.1.4.jar"
+url = "https://cdn.modrinth.com/data/PeZ4h4i0/versions/xYZBNpaR/elemental_wizards_rpg-1.2.2-1.20.1.jar"
 hash-format = "sha1"
-hash = "98e134def4ad5ec8f5e76453fb26dc67ba54122e"
+hash = "6926b6b79a1e8b033e1cdef68efab6217b4aad80"
 
 [update]
 [update.modrinth]
 mod-id = "PeZ4h4i0"
-version = "GZJoGVQT"
+version = "xYZBNpaR"

@@ -1,0 +1,285 @@
+"placement": {
+  "type": "minecraft:random_spread"
+  "salt": 10387312
+  "separation": 24
+  "spacing": 42
+}
+
+weight0 = 1
+weight1 = 2
+weight2 = 4
+
+"structures": [
+  {
+    "structure": "minecraft:village_plains"
+    "weight": ${weight2}
+  }
+  {
+    "structure": "minecraft:village_desert"
+    "weight": ${weight2}
+  }
+  {
+    "structure": "minecraft:village_savanna"
+    "weight": ${weight2}
+  }
+  {
+    "structure": "minecraft:village_snowy"
+    "weight": ${weight2}
+  }
+  {
+    "structure": "minecraft:village_taiga"
+    "weight": ${weight2}
+  }
+  {
+    "structure": "ctov:large/village_beach"
+    "weight": ${weight0}
+  }
+  {
+    "structure": "ctov:large/village_christmas"
+    "weight": ${weight0}
+  }
+  {
+    "structure": "ctov:large/village_desert"
+    "weight": ${weight0}
+  }
+  {
+    "structure": "ctov:large/village_desert_oasis"
+    "weight": ${weight0}
+  }
+  {
+    "structure": "ctov:large/village_dark_forest"
+    "weight": ${weight0}
+  }
+  {
+    "structure": "ctov:large/village_jungle"
+    "weight": ${weight0}
+  }
+  {
+    "structure": "ctov:large/village_jungle_tree"
+    "weight": ${weight0}
+  }
+  {
+    "structure": "ctov:large/village_mesa"
+    "weight": ${weight0}
+  }
+  {
+    "structure": "ctov:large/village_mesa_fortified"
+    "weight": ${weight0}
+  }
+  {
+    "structure": "ctov:large/village_mountain"
+    "weight": ${weight0}
+  }
+  {
+    "structure": "ctov:large/village_mountain_alpine"
+    "weight": ${weight0}
+  }
+  {
+    "structure": "ctov:large/village_mushroom"
+    "weight": ${weight0}
+  }
+  {
+    "structure": "ctov:large/village_plains"
+    "weight": ${weight0}
+  }
+  {
+    "structure": "ctov:large/village_plains_fortified"
+    "weight": ${weight0}
+  }
+  {
+    "structure": "ctov:large/village_savanna"
+    "weight": ${weight0}
+  }
+  {
+    "structure": "ctov:large/village_savanna_na"
+    "weight": ${weight0}
+  }
+  {
+    "structure": "ctov:large/village_snowy_igloo"
+    "weight": ${weight0}
+  }
+  {
+    "structure": "ctov:large/village_swamp"
+    "weight": ${weight0}
+  }
+  {
+    "structure": "ctov:large/village_swamp_fortified"
+    "weight": ${weight0}
+  }
+  {
+    "structure": "ctov:large/village_taiga"
+    "weight": ${weight0}
+  }
+  {
+    "structure": "ctov:large/village_taiga_fortified"
+    "weight": ${weight0}
+  }
+  {
+    "structure": "ctov:medium/village_beach"
+    "weight": ${weight1}
+  }
+  {
+    "structure": "ctov:medium/village_christmas"
+    "weight": ${weight1}
+  }
+  {
+    "structure": "ctov:medium/village_desert"
+    "weight": ${weight1}
+  }
+  {
+    "structure": "ctov:medium/village_desert_oasis"
+    "weight": ${weight1}
+  }
+  {
+    "structure": "ctov:medium/village_dark_forest"
+    "weight": ${weight1}
+  }
+  {
+    "structure": "ctov:medium/village_jungle"
+    "weight": ${weight1}
+  }
+  {
+    "structure": "ctov:medium/village_jungle_tree"
+    "weight": ${weight1}
+  }
+  {
+    "structure": "ctov:medium/village_mesa"
+    "weight": ${weight1}
+  }
+  {
+    "structure": "ctov:medium/village_mesa_fortified"
+    "weight": ${weight1}
+  }
+  {
+    "structure": "ctov:medium/village_mountain"
+    "weight": ${weight1}
+  }
+  {
+    "structure": "ctov:medium/village_mountain_alpine"
+    "weight": ${weight1}
+  }
+  {
+    "structure": "ctov:medium/village_mushroom"
+    "weight": ${weight1}
+  }
+  {
+    "structure": "ctov:medium/village_plains"
+    "weight": ${weight1}
+  }
+  {
+    "structure": "ctov:medium/village_plains_fortified"
+    "weight": ${weight1}
+  }
+  {
+    "structure": "ctov:medium/village_savanna"
+    "weight": ${weight1}
+  }
+  {
+    "structure": "ctov:medium/village_savanna_na"
+    "weight": ${weight1}
+  }
+  {
+    "structure": "ctov:medium/village_snowy_igloo"
+    "weight": ${weight1}
+  }
+  {
+    "structure": "ctov:medium/village_swamp"
+    "weight": ${weight1}
+  }
+  {
+    "structure": "ctov:medium/village_swamp_fortified"
+    "weight": ${weight1}
+  }
+  {
+    "structure": "ctov:medium/village_taiga"
+    "weight": ${weight1}
+  }
+  {
+    "structure": "ctov:medium/village_taiga_fortified"
+    "weight": ${weight1}
+  }
+  {
+    "structure": "ctov:small/village_beach"
+    "weight": ${weight2}
+  }
+  {
+    "structure": "ctov:small/village_christmas"
+    "weight": ${weight2}
+  }
+  {
+    "structure": "ctov:small/village_desert"
+    "weight": ${weight2}
+  }
+  {
+    "structure": "ctov:small/village_desert_oasis"
+    "weight": ${weight2}
+  }
+  {
+    "structure": "ctov:small/village_dark_forest"
+    "weight": ${weight2}
+  }
+  {
+    "structure": "ctov:small/village_jungle"
+    "weight": ${weight2}
+  }
+  {
+    "structure": "ctov:small/village_jungle_tree"
+    "weight": ${weight2}
+  }
+  {
+    "structure": "ctov:small/village_mesa"
+    "weight": ${weight2}
+  }
+  {
+    "structure": "ctov:small/village_mesa_fortified"
+    "weight": ${weight2}
+  }
+  {
+    "structure": "ctov:small/village_mountain"
+    "weight": ${weight2}
+  }
+  {
+    "structure": "ctov:small/village_mountain_alpine"
+    "weight": ${weight2}
+  }
+  {
+    "structure": "ctov:small/village_mushroom"
+    "weight": ${weight2}
+  }
+  {
+    "structure": "ctov:small/village_plains"
+    "weight": ${weight2}
+  }
+  {
+    "structure": "ctov:small/village_plains_fortified"
+    "weight": ${weight2}
+  }
+  {
+    "structure": "ctov:small/village_savanna"
+    "weight": ${weight2}
+  }
+  {
+    "structure": "ctov:small/village_savanna_na"
+    "weight": ${weight2}
+  }
+  {
+    "structure": "ctov:small/village_snowy_igloo"
+    "weight": ${weight2}
+  }
+  {
+    "structure": "ctov:small/village_swamp"
+    "weight": ${weight2}
+  }
+  {
+    "structure": "ctov:small/village_swamp_fortified"
+    "weight": ${weight2}
+  }
+  {
+    "structure": "ctov:small/village_taiga"
+    "weight": ${weight2}
+  }
+  {
+    "structure": "ctov:small/village_taiga_fortified"
+    "weight": ${weight2}
+  }
+]

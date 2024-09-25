@@ -548,7 +548,7 @@ _version = 2
 					# 0.0: No fog. 
 					# 1.0: Fully opaque fog.
 					# 
-					farFogMin = "0.05"
+					farFogMin = "0.0"
 					# How should the fog thickness should be calculated? 
 					# 
 					# LINEAR: Linear based on distance (will ignore 'density')
@@ -558,7 +558,7 @@ _version = 2
 					farFogFalloff = "EXPONENTIAL"
 					# Used in conjunction with the Fog Falloff.
 					# 
-					farFogDensity = "4.0"
+					farFogDensity = "8.0"
 					# Where should the far fog end? 
 					# 
 					# 0.0: Fog ends at player's position.
@@ -678,7 +678,7 @@ _version = 2
 			#  Should Distant Horizons slowly generate LODs 
 			#  outside the vanilla render distance?
 			# 
-			enableDistantGeneration = false
+			enableDistantGeneration = true
 
 		[client.advanced.multiplayer]
 			# AKA: Multiverse support. 

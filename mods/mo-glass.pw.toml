@@ -3,11 +3,11 @@ filename = "Mo-Glass-1.7-MC1.20.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/SI5mk2b6/versions/IxENJp0J/Mo-Glass-1.7-MC1.20.1.jar"
 hash-format = "sha1"
 hash = "260a261ee25735ad5109655e96d7b475091d493f"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4954413
-project-id = 353426
+[update.modrinth]
+mod-id = "SI5mk2b6"
+version = "IxENJp0J"

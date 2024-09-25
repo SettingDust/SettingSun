@@ -1,13 +1,13 @@
 name = "MC Dungeons Enchanting"
-filename = "mcde-1.5.7-1.20.jar"
+filename = "mcde-1.6.3-1.20.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/iwkcspV8/versions/rF87WOC9/mcde-1.5.7-1.20.jar"
+url = "https://cdn.modrinth.com/data/iwkcspV8/versions/9kHmTWEj/mcde-1.6.3-1.20.jar"
 hash-format = "sha1"
-hash = "6eacd3d070950fd45ce00de390360c9b9d2f3cbb"
+hash = "5194130f10e7954ef831756a0bf462d64ceb909e"
 
 [update]
 [update.modrinth]
 mod-id = "iwkcspV8"
-version = "rF87WOC9"
+version = "9kHmTWEj"

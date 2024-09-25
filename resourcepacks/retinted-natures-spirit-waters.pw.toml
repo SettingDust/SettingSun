@@ -1,0 +1,13 @@
+name = "Retinted: Nature's Spirit Waters"
+filename = "retinted_natures_spirit_waters.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/MHHXRT8f/versions/43OHAQ6d/retinted_natures_spirit_waters.zip"
+hash-format = "sha1"
+hash = "ddab7a85c5cb8c3233c6a3f17b1e4dfb004eea0f"
+
+[update]
+[update.modrinth]
+mod-id = "MHHXRT8f"
+version = "43OHAQ6d"
